@@ -82,7 +82,7 @@ APIs:        OpenWeatherMap • USGS • OpenStreetMap
 
 **Competition:** Flood Forecasting and Disaster Warning – AI for Disaster Management
 
-**Team:** Ayush
+**Team:** CodeCatalysts
 
 **Submission:** December 2025
 
@@ -98,13 +98,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Developer:** Ayush
 - **Project:** Alert-AID
-- **Email:** [Contact via GitHub]
+- **Email:** iayushsharma.2008@gmail.com
 
 ---
 
 <div align="center">
 
-**⭐ Star this repo to follow the project!**
 
 *Built with ❤️ for humanity*
 
